@@ -1,6 +1,5 @@
 # H-EXASHI:ELD
-
-![H-EXASHI:ELD Logo](https://github.com/user-attachments/assets/9fe1bca1-2619-4e7e-8b41-620128349b3a)
+<img align="right" alt="Codage" width="400" src="https://github.com/user-attachments/assets/9fe1bca1-2619-4e7e-8b41-620128349b3a">
 
 ## ✨ Bienvenue sur H-EXASHI:ELD
 
